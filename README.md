@@ -18,7 +18,8 @@
 ## セットアップ方法
 1. このリポジトリをgit clone
 2. `npm install`でモジュールインストール
-3. node_module/node-gamepad/controllers/ps4/dualshock4.jsonをhttps://github.com/misu007/bebop2_test/blob/master/node_modules/node-gamepad/controllers/ps4/dualshock4.jsonの内容に変更する。
+3. node_module/node-gamepad/controllers/ps4/dualshock4.jsonをhttps://github.com/misu007/bebop2_test/blob/master/node_modules/node-gamepad/controllers/ps4/dualshock4.json
+の内容に変更する。
 
 ## 起動方法
 1. `node b1005.js`
