@@ -1,0 +1,18 @@
+{
+  "name": "bebop2",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-bebop": "^0.6.0",
+    "node-gamepad": "^0.1.15",
+    "opencv": "git://github.com/peterbraden/node-opencv.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
